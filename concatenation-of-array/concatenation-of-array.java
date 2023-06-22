@@ -1,11 +1,20 @@
 class Solution {
     public int[] getConcatenation(int[] nums) {
-        int n = nums.length;
-        int[] res = new int[2 * n];
-        
-        System.arraycopy(nums, 0, res, 0, n);
-        System.arraycopy(nums, 0, res, n, n);
-        
+        int a=nums.length;
+        int[] arr=nums;
+        int b=arr.length;
+        int c=a+b;
+        int[] res=new int[c];
+        int pos=0;
+        for(int ele:nums){
+            res[pos]=ele;
+            pos++;
+        }
+        for(int ele:arr){
+            res[pos]=ele;
+            pos++;
+        }
         return res;
+
     }
 }
