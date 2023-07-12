@@ -1,13 +1,13 @@
 class Solution {
-    public int findComplement(int num) {
-        int temp=num;
+    public int findComplement(int n) {
         int c=1;
+        int temp=n;
         while(temp!=0){
-            num=num^c;
+            n=n^c;
             c=c<<1;
             temp=temp>>1;
         }
-        return num;
+        return n;
         
     }
 }
