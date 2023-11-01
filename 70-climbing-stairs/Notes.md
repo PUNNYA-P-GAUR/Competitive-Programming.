@@ -1,1 +1,1 @@
-<h2>climbing-stairs Notes</h2><hr>In this we code 
+<h2>climbing-stairs Notes</h2><hr>In this we code we 
