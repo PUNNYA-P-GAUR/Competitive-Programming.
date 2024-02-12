@@ -2,3 +2,4 @@
 so we declare a var=0
 and when we iterate it through a for loop value var keeps on changing 
 so when 0^1=1
+1
