@@ -1,1 +1,1 @@
-<h2>single-number Notes</h2><hr>we know that 
+<h2>single-number Notes</h2><hr>we know that a^A
