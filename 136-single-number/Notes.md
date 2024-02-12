@@ -1,1 +1,1 @@
-<h2>single-number Notes</h2><hr>we know that a xo
+<h2>single-number Notes</h2><hr>we know that a xor a
